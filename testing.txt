@@ -17,7 +17,7 @@ task-proxy
 {
    task-proxy1
    task-proxy2
-   task-proxye
+   task-proxy3
 }
 
 testing local merge
