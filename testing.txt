@@ -17,4 +17,5 @@ task-proxy
 {
    task-proxy1
    task-proxy2
+   task-proxye
 }
