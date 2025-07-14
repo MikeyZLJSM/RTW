@@ -12,3 +12,10 @@ task-DS
    task-DS2
    task-DS3
 }
+
+task-proxy
+{
+   task-proxy1
+   task-proxy2
+   task-proxye
+}
