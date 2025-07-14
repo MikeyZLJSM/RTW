@@ -1,3 +1,6 @@
 /test
 
 task-ui
+{
+   task-ui2
+}
