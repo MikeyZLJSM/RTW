@@ -16,4 +16,5 @@ task-DS
 task-proxy
 {
    task-proxy1
+   task-proxy2
 }
